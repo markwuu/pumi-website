@@ -107,6 +107,12 @@ a {
   display: none;
 }
 
+#aloha {
+  font-family: 'Momo Signature', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 #gif-container {
   height: 325px;
   display: flex;
